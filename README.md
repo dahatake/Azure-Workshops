@@ -33,7 +33,7 @@ https://azure.github.io/learnAnalytics-public/
 
     https://github.com/tsmatz/azure-ml-tensorflow-complete-sample
 
-3. https://azure.github.io/LearnAI-CustomAI-Airlift/
+3. CustomAI Course for the AI Airlift
 
     https://azure.github.io/LearnAI-CustomAI-Airlift/
 
