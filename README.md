@@ -5,6 +5,10 @@ Azure の hands-on Lab や Workshop 用のコンテンツのリンク集です�
 
 https://github.com/Microsoft/MCW
 
+# Learn AI
+
+https://azure.github.io/learnAnalytics-public/
+
 # Azure Kubernetes Services 
 
 1. Java
@@ -25,10 +29,13 @@ https://github.com/Microsoft/MCW
 
     https://github.com/DeepLearningLab/AML-Handson?fbclid=IwAR0ukYdflpwTAR4f78xXf627g_M7y8W343fXrhUY5opQC9JRJHbGDRoP6jQ
 
-2 TensorFlow ベース
+2. TensorFlow ベース
 
     https://github.com/tsmatz/azure-ml-tensorflow-complete-sample
 
+3. https://azure.github.io/LearnAI-CustomAI-Airlift/
+
+    https://azure.github.io/LearnAI-CustomAI-Airlift/
 
 # Cosmos DB
 
@@ -59,6 +66,10 @@ https://cosmosdb.github.io/labs/
 4. Predictive Analytics with Spark in Azure Databricks
 
     https://microsoftlearning.github.io/databricks-ml/
+
+5. https://azure.github.io/LearnAI-ADPM/
+
+    https://azure.github.io/LearnAI-ADPM/
 
 # Cognitive Service
 
