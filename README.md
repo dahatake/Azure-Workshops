@@ -9,13 +9,31 @@ https://github.com/Microsoft/MCW
 
 https://azure.github.io/learnAnalytics-public/
 
+# Azure Functions
+
+1. Serverless Workshop
+
+    Azure Functions, Logic App, EventGridなど一通り。Durable Functions もあります!
+
+    https://github.com/codingwithsasquatch/serverless_ninjas_workshop
+
+2. Static Web page
+
+    HTML ベースのユーザー インターフェイスを表示するシンプルな Web アプリケーションをデプロイします。 サーバーレス バックエンドにより、アプリケーションで画像をアップロードし、その画像について説明するキャプションを自動的に取得できます
+
+    https://docs.microsoft.com/ja-jp/azure/functions/tutorial-static-website-serverless-api-with-database
+
 # Azure Kubernetes Services 
 
-1. Java
+1. Java ベースのAKS一通り (@yoshioterada さん)
+
+    kubernetes のインストール、管理のためのツール群、Service Mesh、そして、VNetとMySQL起動までを一通り。
 
     https://github.com/yoshioterada/k8s-Azure-Container-Service-AKS--on-Azure
 
-2. 一通り
+2. 一通り (@yokawasa)
+
+    こちらも、インストール、構成管理など、一通り。
 
     https://github.com/yokawasa/azure-container-labs
 
@@ -29,17 +47,34 @@ https://azure.github.io/learnAnalytics-public/
 
     https://github.com/DeepLearningLab/AML-Handson?fbclid=IwAR0ukYdflpwTAR4f78xXf627g_M7y8W343fXrhUY5opQC9JRJHbGDRoP6jQ
 
-2. TensorFlow ベース
+2. TensorFlow ベース (@tsmatz さん)
+
+    Azure Machine Learning Services を使っての、データ準備、学習、展開までを一通り。
 
     https://github.com/tsmatz/azure-ml-tensorflow-complete-sample
 
 3. CustomAI Course for the AI Airlift
 
+    3つのコースから成っています。
+    - Azure Databricks and its integration with Azure Machine Learning Services
+    - Continuous Integration and Continuous Delivery (CI/CD)
+    - Deep learning with Azure Machine Learning Services using VS Cod
+
     https://azure.github.io/LearnAI-CustomAI-Airlift/
+
+4. ChainerRLをつかって、Minecraftで深層強化学習 ハンズオン (@keisuke-umezawa さん)
+
+    Azure Data Science VM を使って、Minecraft をシミュレーター環境として動かす深層強化学習を行います
+
+    https://qiita.com/keisuke-umezawa/items/fcf5d00474e244217a5e
 
 # Cosmos DB
 
-https://cosmosdb.github.io/labs/
+1. SQL API
+
+    Azure Cosmos DB using the SQL API, JavaScript and .NET Core SDK
+
+    https://cosmosdb.github.io/labs/
 
 # Azure Search
 
@@ -51,23 +86,27 @@ https://cosmosdb.github.io/labs/
 
 # Azure Databricks
 
-1. 入門編
-
-    https://github.com/tsmatz/azure-databricks-exercise
-
-2. 入門編 2
-
-    https://github.com/annedroid/Ready2019_AA_AI319
-
-3. Introduction to Databricks
+1. Introduction to Databricks
 
     https://microsoftlearning.github.io/databricks-intro/
 
+2. 入門編 (@tsmatz さん)
+
+    https://github.com/tsmatz/azure-databricks-exercise
+
+3. 入門編 2 (@annedroid さん)
+
+    https://github.com/annedroid/Ready2019_AA_AI319
+
 4. Predictive Analytics with Spark in Azure Databricks
 
+    how to use the Spark MLLib library to build machine learning solutions in a Spark Azure HDInsight cluster
+    
     https://microsoftlearning.github.io/databricks-ml/
 
-5. https://azure.github.io/LearnAI-ADPM/
+5. Anomaly Detection and Predictive Maintenanc
+
+    簡単な異常検知と予測保全に関するものです
 
     https://azure.github.io/LearnAI-ADPM/
 
@@ -75,29 +114,34 @@ https://cosmosdb.github.io/labs/
 
 1. Azure Cognitive Services Bootcamp
 
+    Building Intelligent Apps and Agents with the Computer Vision API, Custom Vision Service, LUIS, Bing Search, and Azure Search
+    
     https://azure.github.io/LearnAI-Bootcamp/
 
-2. Speech x Java
+2. Speech x Java (@yoshioterada さん)
+
+    Microsoft Translator はテキスト(英語)からテキスト(日本語)の翻訳のほか、音声データ(wavファイル)からテキストへ翻訳などができます。本ハンズオンでは、テキストからテキストの翻訳、音声からテキストへの翻訳の２種類の翻訳の実装方法について紹介します。
 
     https://github.com/yoshioterada/MS-Translator-Speech-HoL
 
-3. Xamarin
+3. Xamarin (@ayako さん)
+
+    まずは Cognitive Services を利用したアプリケーションに触れ、Cognitive Services の利用方法について学習します。その後、Cognitive Services Face API を活用 して、取り込んだ画像を分析して人間の顔に関する情報 (年齢、性別、表情) を出力するアプリを、マルチプラットフォーム向け(Windows, iOS, Android) の開発環境である Xamarin を用いたアプリケーションとして構築します
 
     https://github.com/ayako/CognitiveXamarinHOL_201806
 
-4. Logic App x Power Platform
+4. Logic App x Power Platform (@ayako さん)
+
+    Microsoft PowerApps & Flow / Azure Locig Apps からノンコーディングで Cognitive Services を活用したアプリを開発するハンズオンです
 
     https://github.com/ayako/NonCodingCognitive_201806
 
-# BotFramework
-
-1. Developing Intelligent Applications with LUIS
-
-    https://azure.github.io/LearnAI-Bootcamp/lab01.5-luis/0_README
 
 # IoT Hub
 
 1. IoT 全部
+
+    実機前提の Azure IoT 利用イメージがつかめる大作です。
 
     https://github.com/ms-iotkithol-jp/IoTKitHoLV4
 
