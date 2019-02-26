@@ -151,6 +151,18 @@ https://azure.github.io/learnAnalytics-public/
 
     https://github.com/ms-iotkithol-jp/nvidia-jetson-tx2
 
+# Power BI
+
+1. 自習書
+
+    公式なもの:
+
+    http://aka.ms/pbi_self-learning01
+
+    同じく、上記のスクリプト
+
+    http://aka.ms/pbi_self-learning02
+
 # Others
 
 1. Big Data Bizualization
