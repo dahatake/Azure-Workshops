@@ -42,7 +42,7 @@ https://azure.github.io/learnAnalytics-public/
 1. LearnAI Materials
 Azure を使った Pre-Trained Model, Custom Model, Bot Application についてのコンテンツです。
 
-https://azure.github.io/learnAnalytics-public/
+    https://azure.github.io/learnAnalytics-public/
 
 
 2. Deep Learning Lab - Azure Machine Learning Hands-on
