@@ -39,7 +39,13 @@ https://azure.github.io/learnAnalytics-public/
 
 # Azure Machine Learning
 
-1. Deep Learning Lab - Azure Machine Learning Hands-on
+1. LearnAI Materials
+Azure を使った Pre-Trained Model, Custom Model, Bot Application についてのコンテンツです。
+
+https://azure.github.io/learnAnalytics-public/
+
+
+2. Deep Learning Lab - Azure Machine Learning Hands-on
 
     学習用の Python スクリプトを、どう制御していくのかを体験できます。
 
@@ -47,13 +53,13 @@ https://azure.github.io/learnAnalytics-public/
 
     https://github.com/DeepLearningLab/AML-Handson?fbclid=IwAR0ukYdflpwTAR4f78xXf627g_M7y8W343fXrhUY5opQC9JRJHbGDRoP6jQ
 
-2. TensorFlow ベース (@tsmatz さん)
+3. TensorFlow ベース (@tsmatz さん)
 
     Azure Machine Learning Services を使っての、データ準備、学習、展開までを一通り。
 
     https://github.com/tsmatz/azure-ml-tensorflow-complete-sample
 
-3. CustomAI Course for the AI Airlift
+4. CustomAI Course for the AI Airlift
 
     3つのコースから成っています。
     - Azure Databricks and its integration with Azure Machine Learning Services
@@ -62,7 +68,7 @@ https://azure.github.io/learnAnalytics-public/
 
     https://azure.github.io/LearnAI-CustomAI-Airlift/
 
-4. ChainerRLをつかって、Minecraftで深層強化学習 ハンズオン (@keisuke-umezawa さん)
+5. ChainerRLをつかって、Minecraftで深層強化学習 ハンズオン (@keisuke-umezawa さん)
 
     Azure Data Science VM を使って、Minecraft をシミュレーター環境として動かす深層強化学習を行います
 
