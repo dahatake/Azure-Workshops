@@ -3,11 +3,15 @@ Azure の hands-on Lab や Workshop 用のコンテンツのリンク集です�
 
 # Microsoft Cloud Workshop
 
-https://github.com/Microsoft/MCW
+    Azure のかなりの数のサービスのコンテンツです。
+
+    https://github.com/Microsoft/MCW
 
 # Learn AI
 
-https://azure.github.io/learnAnalytics-public/
+    Azure を使った Pre-Trained Model, Custom Model, Bot Application についてのコンテンツです。
+
+    https://azure.github.io/learnAnalytics-public/
 
 # Azure Functions
 
@@ -39,13 +43,7 @@ https://azure.github.io/learnAnalytics-public/
 
 # Azure Machine Learning
 
-1. LearnAI Materials
-Azure を使った Pre-Trained Model, Custom Model, Bot Application についてのコンテンツです。
-
-    https://azure.github.io/learnAnalytics-public/
-
-
-2. Deep Learning Lab - Azure Machine Learning Hands-on
+1. Deep Learning Lab - Azure Machine Learning Hands-on
 
     学習用の Python スクリプトを、どう制御していくのかを体験できます。
 
@@ -53,13 +51,13 @@ Azure を使った Pre-Trained Model, Custom Model, Bot Application について
 
     https://github.com/DeepLearningLab/AML-Handson?fbclid=IwAR0ukYdflpwTAR4f78xXf627g_M7y8W343fXrhUY5opQC9JRJHbGDRoP6jQ
 
-3. TensorFlow ベース (@tsmatz さん)
+2. TensorFlow ベース (@tsmatz さん)
 
     Azure Machine Learning Services を使っての、データ準備、学習、展開までを一通り。
 
     https://github.com/tsmatz/azure-ml-tensorflow-complete-sample
 
-4. CustomAI Course for the AI Airlift
+3. CustomAI Course for the AI Airlift
 
     3つのコースから成っています。
     - Azure Databricks and its integration with Azure Machine Learning Services
@@ -68,7 +66,7 @@ Azure を使った Pre-Trained Model, Custom Model, Bot Application について
 
     https://azure.github.io/LearnAI-CustomAI-Airlift/
 
-5. ChainerRLをつかって、Minecraftで深層強化学習 ハンズオン (@keisuke-umezawa さん)
+4. ChainerRLをつかって、Minecraftで深層強化学習 ハンズオン (@keisuke-umezawa さん)
 
     Azure Data Science VM を使って、Minecraft をシミュレーター環境として動かす深層強化学習を行います
 
@@ -161,6 +159,8 @@ Azure を使った Pre-Trained Model, Custom Model, Bot Application について
 
 1. 自習書
 
+    若干古いですが。
+
     公式なもの:
 
     http://aka.ms/pbi_self-learning01
@@ -171,6 +171,6 @@ Azure を使った Pre-Trained Model, Custom Model, Bot Application について
 
 # Others
 
-1. Big Data Bizualization
+1. Big Data Vizualization
 
     https://github.com/AzureWorkshops/Big-Data-Visualization-New/blob/master/docs/00_Overview.md
