@@ -3,15 +3,15 @@ Azure の hands-on Lab や Workshop 用のコンテンツのリンク集です�
 
 # Microsoft Cloud Workshop
 
-    Azure のかなりの数のサービスのコンテンツです。
+Azure のかなりの数のサービスのコンテンツです。
 
-    https://github.com/Microsoft/MCW
+https://github.com/Microsoft/MCW
 
 # Learn AI
 
-    Azure を使った Pre-Trained Model, Custom Model, Bot Application についてのコンテンツです。
+Azure を使った Pre-Trained Model, Custom Model, Bot Application についてのコンテンツです。
 
-    https://azure.github.io/learnAnalytics-public/
+https://azure.github.io/learnAnalytics-public/
 
 # Azure Functions
 
