@@ -157,6 +157,12 @@ https://azure.github.io/learnAnalytics-public/
 
 # Power BI
 
+1. ガイド付き学習
+
+    公式なのですが、まずはここから...
+
+    https://docs.microsoft.com/ja-jp/power-bi/guided-learning/
+
 1. 自習書
 
     若干古いですが。
@@ -168,6 +174,12 @@ https://azure.github.io/learnAnalytics-public/
     同じく、上記のスクリプト
 
     http://aka.ms/pbi_self-learning02
+
+# Azure DevOps
+
+    公式なのですが、よくまとまっています。
+
+    https://www.azuredevopslabs.com/
 
 # Others
 
