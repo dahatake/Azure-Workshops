@@ -181,8 +181,37 @@ https://azure.github.io/learnAnalytics-public/
 
     https://www.azuredevopslabs.com/
 
-# Others
+# Application
 
-1. Big Data Vizualization
+個別サービスを組み合わせてのアプリケーションのシナリオです。
+
+1. ベンディングマシーン
+    
+    ![Image](https://github.com/Microsoft/MCW-Intelligent-vending-machines/raw/master/Hands-on%20lab/media/preferred-solution-architecture.png)
+
+    https://github.com/Microsoft/MCW-Intelligent-Vending-Machines
+
+    ハンズオンはこちらから。
+    https://github.com/Microsoft/MCW-Intelligent-vending-machines/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Intelligent%20vending%20machines.md
+
+2. Big Data Vizualization
+
+    データの加工と可視化に注力。
 
     https://github.com/AzureWorkshops/Big-Data-Visualization-New/blob/master/docs/00_Overview.md
+
+    ![image](https://github.com/Microsoft/MCW-Big-data-and-visualization/raw/master/Whiteboard%20design%20session/media/high-level-overview.png)
+
+    ハンズオン:
+    https://github.com/Microsoft/MCW-Big-data-and-visualization/tree/master/Hands-on%20lab
+
+3. Pre-Trained と 独自 Train でのDeep Learning
+
+    Spark Cluster をベースに、Cognigive Services と 独自開発モデルの組み合わせ。
+
+    https://github.com/Microsoft/MCW-Cognitive-Services-and-Deep-Learning
+
+    ![image](https://github.com/Microsoft/MCW-Cognitive-services-and-deep-learning/raw/master/Hands-on%20lab/media/image2.png)
+
+    ハンズオンはこちら。
+    https://github.com/Microsoft/MCW-Cognitive-services-and-deep-learning/blob/master/Hands-on%20lab/HOL%20step-by%20step%20-%20Cognitive%20services%20and%20deep%20learning.md#exercise-3-create-and-deploy-a-tensorflow-model
