@@ -215,3 +215,15 @@ https://azure.github.io/learnAnalytics-public/
 
     ハンズオンはこちら。
     https://github.com/Microsoft/MCW-Cognitive-services-and-deep-learning/blob/master/Hands-on%20lab/HOL%20step-by%20step%20-%20Cognitive%20services%20and%20deep%20learning.md#exercise-3-create-and-deploy-a-tensorflow-model
+
+4. 動画解析
+
+    Video Indexer と Serverless サービスを駆使したアプリです。
+
+    https://github.com/Microsoft/MCW-Media-AI
+
+    ![image](https://github.com/Microsoft/MCW-Media-AI/raw/master/Hands-on%20lab/images/Hands-onlabstep-by-step-MediaAIimages/media/image2.png)
+
+    ハンズオンはこのあたり。
+    https://github.com/Microsoft/MCW-Media-AI/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Media%20AI.md
+
