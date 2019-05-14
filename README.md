@@ -3,9 +3,9 @@ Azure の hands-on Lab や Workshop 用のコンテンツのリンク集です�
 
 # Microsoft Cloud Workshop
 
-Azure のかなりの数のサービスのコンテンツです。
+Azure のかなりの数のサービスのコンテンツです。英語ですが、皆さんなら読めるかと!
 
-https://github.com/Microsoft/MCW
+https://microsoftcloudworkshop.com/
 
 # Learn AI
 
