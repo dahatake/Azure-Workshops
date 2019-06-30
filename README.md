@@ -13,6 +13,12 @@ Azure を使った Pre-Trained Model, Custom Model, Bot Application について
 
 https://azure.github.io/learnAnalytics-public/
 
+https://azure.github.io/LearnAI-Bootcamp/
+
+特に Machine Learning より
+
+https://azure.github.io/LearnAI_Azure_ML/
+
 # Azure Functions
 
 1. Serverless Workshop
