@@ -13,12 +13,6 @@ Azure を使った Pre-Trained Model, Custom Model, Bot Application について
 
 https://azure.github.io/learnAnalytics-public/
 
-https://azure.github.io/LearnAI-Bootcamp/
-
-特に Machine Learning より
-
-https://azure.github.io/LearnAI_Azure_ML/
-
 # Azure Functions
 
 1. Serverless Workshop
@@ -122,25 +116,19 @@ https://azure.github.io/LearnAI_Azure_ML/
 
 # Cognitive Service
 
-1. Azure Cognitive Services Bootcamp
-
-    Building Intelligent Apps and Agents with the Computer Vision API, Custom Vision Service, LUIS, Bing Search, and Azure Search
-    
-    https://azure.github.io/LearnAI-Bootcamp/
-
-2. Speech x Java (@yoshioterada さん)
+1. Speech x Java (@yoshioterada さん)
 
     Microsoft Translator はテキスト(英語)からテキスト(日本語)の翻訳のほか、音声データ(wavファイル)からテキストへ翻訳などができます。本ハンズオンでは、テキストからテキストの翻訳、音声からテキストへの翻訳の２種類の翻訳の実装方法について紹介します。
 
     https://github.com/yoshioterada/MS-Translator-Speech-HoL
 
-3. Xamarin (@ayako さん)
+2. Xamarin (@ayako さん)
 
     まずは Cognitive Services を利用したアプリケーションに触れ、Cognitive Services の利用方法について学習します。その後、Cognitive Services Face API を活用 して、取り込んだ画像を分析して人間の顔に関する情報 (年齢、性別、表情) を出力するアプリを、マルチプラットフォーム向け(Windows, iOS, Android) の開発環境である Xamarin を用いたアプリケーションとして構築します
 
     https://github.com/ayako/CognitiveXamarinHOL_201806
 
-4. Logic App x Power Platform (@ayako さん)
+3. Logic App x Power Platform (@ayako さん)
 
     Microsoft PowerApps & Flow / Azure Locig Apps からノンコーディングで Cognitive Services を活用したアプリを開発するハンズオンです
 
@@ -169,7 +157,7 @@ https://azure.github.io/LearnAI_Azure_ML/
 
     https://docs.microsoft.com/ja-jp/power-bi/guided-learning/
 
-1. 自習書
+2. 自習書
 
     若干古いですが。
 
