@@ -1,19 +1,19 @@
 # Azure Workshop Contents
 Azure の hands-on Lab や Workshop 用のコンテンツのリンク集です。自社あるいは Community 勉強会で、どうぞ自由にご活用ください。
 
-# Microsoft Cloud Workshop
+## Microsoft Cloud Workshop
 
 Azure のかなりの数のサービスのコンテンツです。英語ですが、皆さんなら読めるかと!
 
 https://microsoftcloudworkshop.com/
 
-# Learn AI
+## Learn AI
 
 Azure を使った Pre-Trained Model, Custom Model, Bot Application についてのコンテンツです。
 
 https://azure.github.io/learnAnalytics-public/
 
-# Azure Functions
+## Azure Functions
 
 1. Serverless Workshop
 
@@ -27,7 +27,7 @@ https://azure.github.io/learnAnalytics-public/
 
     https://docs.microsoft.com/ja-jp/azure/functions/tutorial-static-website-serverless-api-with-database
 
-# Azure Kubernetes Services 
+## Azure Kubernetes Services 
 
 1. Java ベースのAKS一通り (@yoshioterada さん)
 
@@ -41,7 +41,7 @@ https://azure.github.io/learnAnalytics-public/
 
     https://github.com/yokawasa/azure-container-labs
 
-# Azure Machine Learning
+## Azure Machine Learning
 
 1. Deep Learning Lab - Azure Machine Learning Hands-on
 
@@ -72,7 +72,7 @@ https://azure.github.io/learnAnalytics-public/
 
     https://qiita.com/keisuke-umezawa/items/fcf5d00474e244217a5e
 
-# Cosmos DB
+## Cosmos DB
 
 1. SQL API
 
@@ -80,7 +80,7 @@ https://azure.github.io/learnAnalytics-public/
 
     https://cosmosdb.github.io/labs/
 
-# Azure Search
+## Azure Search
 
 1. Azure Search - Cognitive Search
 
@@ -88,7 +88,7 @@ https://azure.github.io/learnAnalytics-public/
 
     https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/
 
-# Azure Databricks
+## Azure Databricks
 
 1. Introduction to Databricks
 
@@ -114,7 +114,7 @@ https://azure.github.io/learnAnalytics-public/
 
     https://azure.github.io/LearnAI-ADPM/
 
-# Cognitive Service
+## Cognitive Service
 
 1. Speech x Java (@yoshioterada さん)
 
@@ -135,7 +135,7 @@ https://azure.github.io/learnAnalytics-public/
     https://github.com/ayako/NonCodingCognitive_201806
 
 
-# IoT Hub
+## IoT Hub
 
 1. IoT 全部
 
@@ -149,7 +149,7 @@ https://azure.github.io/learnAnalytics-public/
 
     https://github.com/ms-iotkithol-jp/nvidia-jetson-tx2
 
-# Power BI
+## Power BI
 
 1. ガイド付き学習
 
@@ -169,18 +169,25 @@ https://azure.github.io/learnAnalytics-public/
 
     http://aka.ms/pbi_self-learning02
 
-# Azure DevOps
+## Azure DevOps
 
-    公式なのですが、よくまとまっています。
+公式なのですが、よくまとまっています。
 
-    https://www.azuredevopslabs.com/
+https://www.azuredevopslabs.com/
 
-# Application
+## High Availability System
+
+止められないシステムを実現するための各種 Azure Services
+
+https://github.com/microsoft/MCW-Business-continuity-and-disaster-recovery
+
+
+## Application
 
 個別サービスを組み合わせてのアプリケーションのシナリオです。
 
 1. ベンディングマシーン
-    
+
     ![Image](https://github.com/Microsoft/MCW-Intelligent-vending-machines/raw/master/Hands-on%20lab/media/preferred-solution-architecture.png)
 
     https://github.com/Microsoft/MCW-Intelligent-Vending-Machines
