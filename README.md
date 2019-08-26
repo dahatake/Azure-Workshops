@@ -94,8 +94,7 @@ https://azure.github.io/learnAnalytics-public/
     
     誰もが知っている NYC Taxi のデータですが、小さなデータが増え続けるパターンをどう処理していくか、という意味でも価値があろうかと思います。
 
-    Data Engineering
-    Data Science
+    Data Engineering | Data Science
 
     の両方を行えますね😊
 
