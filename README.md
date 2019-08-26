@@ -90,25 +90,31 @@ https://azure.github.io/learnAnalytics-public/
 
 ## Azure Databricks
 
-1. Introduction to Databricks
+1. NYC Taxi public data
+    
+    誰もが知っている NYC Taxi のデータですが、小さなデータが増え続けるパターンをどう処理していくか、という意味でも価値があろうかと思います。
 
-    https://microsoftlearning.github.io/databricks-intro/
+    Data Engineering
+    Data Science
+
+    の両方を行えますね😊
+
+
+    https://github.com/microsoft/Azure-Databricks-NYC-Taxi-Workshop
+
 
 2. 入門編 (@tsmatz さん)
 
     https://github.com/tsmatz/azure-databricks-exercise
 
-3. 入門編 2 (@annedroid さん)
 
-    https://github.com/annedroid/Ready2019_AA_AI319
-
-4. Predictive Analytics with Spark in Azure Databricks
+3. Predictive Analytics with Spark in Azure Databricks
 
     how to use the Spark MLLib library to build machine learning solutions in a Spark Azure HDInsight cluster
     
     https://microsoftlearning.github.io/databricks-ml/
 
-5. Anomaly Detection and Predictive Maintenanc
+4. Anomaly Detection and Predictive Maintenanc
 
     簡単な異常検知と予測保全に関するものです
 
