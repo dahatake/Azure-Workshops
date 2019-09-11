@@ -169,6 +169,12 @@ https://azure.github.io/learnAnalytics-public/
 
 ## Power BI
 
+1. お気軽ハンズオン
+
+    Power BI Desktop を使っての基本的な作業手順を体験します。
+
+    [PowerBI-Hands-on](/PowerBI/README.md)
+
 1. ガイド付き学習
 
     公式なのですが、まずはここから...
