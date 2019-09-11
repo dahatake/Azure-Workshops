@@ -1,5 +1,26 @@
 # Azure Workshop Contents
-Azure の hands-on Lab や Workshop 用のコンテンツのリンク集です。自社あるいは Community 勉強会で、どうぞ自由にご活用ください。
+
+Azure の Hands-on-Lab や Workshop 用のコンテンツのリンク集です。
+
+自社あるいは Community の勉強会など、どうぞ自由にご活用ください。
+
+- [Microsoft Cloud Workshop](#microsoft-cloud-workshop)
+- [Azure Functions](#azure-functions)
+- [Azure Kubernetes Services](#azure-Kubernetes-services)
+- [機械学習一通り](#機械学習一通り)
+- [Cognitive Service](#Cognitive-Service)
+- [Azure Machine Learning services](#Azure-Machine-Learning-services)
+- [Cosmos DB](#Cosmos-DB)
+- [Azure Databricks](#Azure-Databricks)
+- [Azure Search](#Azure-Search)
+- [Power BI](#Power-BI)
+- [IoT](#IoT)
+- [Azure DevOps](#Azure-DevOps)
+
+- [High Availability System](#High-Availability-System)
+- [Senario Type Application](#Senario-Type-Application)
+
+
 
 ## Microsoft Cloud Workshop
 
@@ -7,17 +28,11 @@ Azure のかなりの数のサービスのコンテンツです。英語です�
 
 https://microsoftcloudworkshop.com/
 
-## Learn AI
-
-Azure を使った Pre-Trained Model, Custom Model, Bot Application についてのコンテンツです。
-
-https://azure.github.io/learnAnalytics-public/
-
 ## Azure Functions
 
 1. Serverless Workshop
 
-    Azure Functions, Logic App, EventGridなど一通り。Durable Functions もあります!
+    Azure Functions, Logic App, EventGrid など一通り。Durable Functions もあります!
 
     https://github.com/codingwithsasquatch/serverless_ninjas_workshop
 
@@ -29,9 +44,9 @@ https://azure.github.io/learnAnalytics-public/
 
 ## Azure Kubernetes Services 
 
-1. Java ベースのAKS一通り (@yoshioterada さん)
+1. Java ベースの AKS 一通り (@yoshioterada さん)
 
-    kubernetes のインストール、管理のためのツール群、Service Mesh、そして、VNetとMySQL起動までを一通り。
+    kubernetes のインストール、管理のためのツール群、Service Mesh、そして、VNet と MySQL 起動までを一通り。
 
     https://github.com/yoshioterada/k8s-Azure-Container-Service-AKS--on-Azure
 
@@ -41,7 +56,41 @@ https://azure.github.io/learnAnalytics-public/
 
     https://github.com/yokawasa/azure-container-labs
 
-## Azure Machine Learning
+## 機械学習一通り
+
+1. 機械学習の入門からデータサイエンティスト手前まで
+
+Global AI Nights の日本開催で利用したコンテンツです。MVP の方々の多大なるご尽力です。非常にわかりやすいチャレンジ構成になっています。
+
+https://aka.ms/AA603s1
+
+2. Cognitive, Azure ML, Bot まで一通り
+
+Azure を使った Pre-Trained Model, Custom Model, Bot Application についてのコンテンツです。
+
+https://azure.github.io/learnAnalytics-public/
+
+## Cognitive Service
+
+1. Speech x Java (@yoshioterada さん)
+
+    Microsoft Translator はテキスト(英語)からテキスト(日本語)の翻訳のほか、音声データ(wavファイル)からテキストへ翻訳などができます。本ハンズオンでは、テキストからテキストの翻訳、音声からテキストへの翻訳の２種類の翻訳の実装方法について紹介します。
+
+    https://github.com/yoshioterada/MS-Translator-Speech-HoL
+
+2. Xamarin (@ayako さん)
+
+    まずは Cognitive Services を利用したアプリケーションに触れ、Cognitive Services の利用方法について学習します。その後、Cognitive Services Face API を活用 して、取り込んだ画像を分析して人間の顔に関する情報 (年齢、性別、表情) を出力するアプリを、マルチプラットフォーム向け(Windows, iOS, Android) の開発環境である Xamarin を用いたアプリケーションとして構築します
+
+    https://github.com/ayako/CognitiveXamarinHOL_201806
+
+3. Logic App x Power Platform (@ayako さん)
+
+    Microsoft PowerApps & Flow / Azure Locig Apps からノンコーディングで Cognitive Services を活用したアプリを開発するハンズオンです
+
+    https://github.com/ayako/NonCodingCognitive_201806
+
+## Azure Machine Learning services
 
 1. Deep Learning Lab - Azure Machine Learning Hands-on
 
@@ -66,7 +115,7 @@ https://azure.github.io/learnAnalytics-public/
 
     https://azure.github.io/LearnAI-CustomAI-Airlift/
 
-4. ChainerRLをつかって、Minecraftで深層強化学習 ハンズオン (@keisuke-umezawa さん)
+4. 強化学習です。ChainerRL を使い、Minecraftで深層強化学習 ハンズオン (@keisuke-umezawa さん)
 
     Azure Data Science VM を使って、Minecraft をシミュレーター環境として動かす深層強化学習を行います
 
@@ -80,14 +129,6 @@ https://azure.github.io/learnAnalytics-public/
 
     https://cosmosdb.github.io/labs/
 
-## Azure Search
-
-1. Azure Search - Cognitive Search
-
-    Blob上のファイルのクローリング (インデッキシング) 時に、ファイル内部を解析し、結果を Search Indexの列として追加する、深層学習の応用例になります。
-
-    https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/
-
 ## Azure Databricks
 
 1. NYC Taxi public data
@@ -98,11 +139,10 @@ https://azure.github.io/learnAnalytics-public/
 
     の両方を行えますね😊
 
-
     https://github.com/microsoft/Azure-Databricks-NYC-Taxi-Workshop
 
 
-2. 入門編 (@tsmatz さん)
+2. DataBricks での機械学習 - 入門編 (@tsmatz さん)
 
     https://github.com/tsmatz/azure-databricks-exercise
 
@@ -119,40 +159,13 @@ https://azure.github.io/learnAnalytics-public/
 
     https://azure.github.io/LearnAI-ADPM/
 
-## Cognitive Service
+## Azure Search
 
-1. Speech x Java (@yoshioterada さん)
+1. Azure Search - Cognitive Search
 
-    Microsoft Translator はテキスト(英語)からテキスト(日本語)の翻訳のほか、音声データ(wavファイル)からテキストへ翻訳などができます。本ハンズオンでは、テキストからテキストの翻訳、音声からテキストへの翻訳の２種類の翻訳の実装方法について紹介します。
+    Blob上のファイルのクローリング (インデッキシング) 時に、ファイル内部を解析し、結果を Search Indexの列として追加する、深層学習の応用例になります。
 
-    https://github.com/yoshioterada/MS-Translator-Speech-HoL
-
-2. Xamarin (@ayako さん)
-
-    まずは Cognitive Services を利用したアプリケーションに触れ、Cognitive Services の利用方法について学習します。その後、Cognitive Services Face API を活用 して、取り込んだ画像を分析して人間の顔に関する情報 (年齢、性別、表情) を出力するアプリを、マルチプラットフォーム向け(Windows, iOS, Android) の開発環境である Xamarin を用いたアプリケーションとして構築します
-
-    https://github.com/ayako/CognitiveXamarinHOL_201806
-
-3. Logic App x Power Platform (@ayako さん)
-
-    Microsoft PowerApps & Flow / Azure Locig Apps からノンコーディングで Cognitive Services を活用したアプリを開発するハンズオンです
-
-    https://github.com/ayako/NonCodingCognitive_201806
-
-
-## IoT Hub
-
-1. IoT 全部
-
-    実機前提の Azure IoT 利用イメージがつかめる大作です。
-
-    https://github.com/ms-iotkithol-jp/IoTKitHoLV4
-
-2. with Jetson TX 2
-
-    JETSON TX2のサンプルの、jetson-inferenceのimagenet-cameraの画像認識結果をAzure IoT Hubに送信する改造手順を説明します
-
-    https://github.com/ms-iotkithol-jp/nvidia-jetson-tx2
+    https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/
 
 ## Power BI
 
@@ -174,6 +187,20 @@ https://azure.github.io/learnAnalytics-public/
 
     http://aka.ms/pbi_self-learning02
 
+## IoT
+
+1. IoT 全部
+
+    実機前提の Azure IoT 利用イメージがつかめる大作です。
+
+    https://github.com/ms-iotkithol-jp/IoTKitHoLV4
+
+2. with Jetson TX 2
+
+    JETSON TX2のサンプルの、jetson-inferenceのimagenet-cameraの画像認識結果をAzure IoT Hubに送信する改造手順を説明します
+
+    https://github.com/ms-iotkithol-jp/nvidia-jetson-tx2
+
 ## Azure DevOps
 
 公式なのですが、よくまとまっています。
@@ -186,8 +213,7 @@ https://www.azuredevopslabs.com/
 
 https://github.com/microsoft/MCW-Business-continuity-and-disaster-recovery
 
-
-## Application
+## Senario Type Application
 
 個別サービスを組み合わせてのアプリケーションのシナリオです。
 
@@ -224,12 +250,11 @@ https://github.com/microsoft/MCW-Business-continuity-and-disaster-recovery
 
 4. 動画解析
 
-    Video Indexer と Serverless サービスを駆使したアプリです。
+    Video Indexer と Serverless サービスを駆使したアプリです
 
     https://github.com/Microsoft/MCW-Media-AI
 
     ![image](https://github.com/Microsoft/MCW-Media-AI/raw/master/Hands-on%20lab/images/Hands-onlabstep-by-step-MediaAIimages/media/image2.png)
 
-    ハンズオンはこのあたり。
+    ハンズオンはこのあたり
     https://github.com/Microsoft/MCW-Media-AI/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Media%20AI.md
-
