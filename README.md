@@ -28,6 +28,15 @@ Azure のかなりの数のサービスのコンテンツです。英語です�
 
 https://microsoftcloudworkshop.com/
 
+## Microsoft Hands-on Labs
+
+Azure だけでなく、様々な Microsoft Technology のハンズオンラボコンテンツです。
+
+`Self-paced Labs` の自習式のハンズオンです。操作用に仮想マシンまで用意されています。
+
+https://www.microsoft.com/handsonlabs/selfpacedlabs/
+
+
 ## Azure Citadel
 
 同じく Azure のかなりの数のサービスのコンテンツです。各国の Community の皆さんでメンテナンスされている、ハンズオン・ワークショップ用のコンテンツです。こちらも同じく英語のみ😅
