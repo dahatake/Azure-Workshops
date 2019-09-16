@@ -28,6 +28,12 @@ Azure のかなりの数のサービスのコンテンツです。英語です�
 
 https://microsoftcloudworkshop.com/
 
+## Azure Citadel
+
+同じく Azure のかなりの数のサービスのコンテンツです。各国の Community の皆さんでメンテナンスされている、ハンズオン・ワークショップ用のコンテンツです。こちらも同じく英語のみ😅
+
+https://azurecitadel.com/
+
 ## Azure Functions
 
 1. Serverless Workshop
