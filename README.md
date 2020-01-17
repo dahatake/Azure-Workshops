@@ -105,7 +105,7 @@ https://azure.github.io/learnAnalytics-public/
 
     https://github.com/ayako/NonCodingCognitive_201806
 
-## Azure Machine Learning services
+## Azure Machine Learning
 
 1. Deep Learning Lab - Azure Machine Learning Hands-on
 
@@ -117,7 +117,7 @@ https://azure.github.io/learnAnalytics-public/
 
 2. TensorFlow ベース (@tsmatz さん)
 
-    Azure Machine Learning Services を使っての、データ準備、学習、展開までを一通り。
+    Azure Machine Learning を使っての、データ準備、学習、展開までを一通り。
 
     https://github.com/tsmatz/azure-ml-tensorflow-complete-sample
 
@@ -130,11 +130,24 @@ https://azure.github.io/learnAnalytics-public/
 
     https://azure.github.io/LearnAI-CustomAI-Airlift/
 
-4. 強化学習です。ChainerRL を使い、Minecraftで深層強化学習 ハンズオン (@keisuke-umezawa さん)
+4. 強化学習 - ChainerRL
+
+
+    Minecraftで深層強化学習 ハンズオン (@keisuke-umezawa さん)
 
     Azure Data Science VM を使って、Minecraft をシミュレーター環境として動かす深層強化学習を行います
 
     https://qiita.com/keisuke-umezawa/items/fcf5d00474e244217a5e
+
+5. BERT
+
+    NLP で人気のある BERT を使って、MLOps まで実装します
+
+    https://github.com/microsoft/bert-stack-overflow
+
+    BERT on Azure のサンプルはこちら:
+
+    https://github.com/Microsoft/AzureML-BERT
 
 ## Cosmos DB
 
