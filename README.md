@@ -11,7 +11,9 @@ Azure の Hands-on-Lab や Workshop 用のコンテンツのリンク集です�
 - [Cognitive Service](#Cognitive-Service)
 - [Azure Machine Learning services](#Azure-Machine-Learning-services)
 - [Cosmos DB](#Cosmos-DB)
+
 - [Azure Databricks](#Azure-Databricks)
+- [Azure Data Explorer](#Azure-Data-Explorer)
 - [Azure Search](#Azure-Search)
 - [Power BI](#Power-BI)
 - [IoT](#IoT)
@@ -186,6 +188,14 @@ https://azure.github.io/learnAnalytics-public/
     簡単な異常検知と予測保全に関するものです
 
     https://azure.github.io/LearnAI-ADPM/
+
+## Azure Data Explorer
+
+1. End-To-End の操作
+
+    インスタンスを作成する事から始めて、Power BI からの接続。複数の KQL 実行まで。
+
+    https://aka.ms/adx.lab
 
 ## Azure Search
 
