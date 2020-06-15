@@ -195,7 +195,7 @@ https://azure.github.io/learnAnalytics-public/
 
 1. Azure Synapse Analytics end-to-end solution
 
-Synapseの概念を実感する上で、非常によくできたコンテンツ。実際に大きなデータ量を扱いますので、全て実行するのに結構時間はかかります...
+    Synapseの概念を実感する上で、非常によくできたコンテンツ。実際に大きなデータ量を扱いますので、全て実行するのに結構時間はかかります...
 
     https://github.com/microsoft/MCW-Azure-Synapse-Analytics-end-to-end-solution
 
