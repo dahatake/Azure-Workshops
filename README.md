@@ -12,6 +12,8 @@ Azure の Hands-on-Lab や Workshop 用のコンテンツのリンク集です�
 - [Azure Machine Learning services](#Azure-Machine-Learning-services)
 - [Cosmos DB](#Cosmos-DB)
 
+- [Azure Synapse Analytics](#Azure-Synapse-Anaytics)
+
 - [Azure Databricks](#Azure-Databricks)
 - [Azure Data Explorer](#Azure-Data-Explorer)
 - [Azure Search](#Azure-Search)
@@ -188,6 +190,14 @@ https://azure.github.io/learnAnalytics-public/
     簡単な異常検知と予測保全に関するものです
 
     https://azure.github.io/LearnAI-ADPM/
+
+## Azure Synapse Anaytics
+
+1. Azure Synapse Analytics end-to-end solution
+
+Synapseの概念を実感する上で、非常によくできたコンテンツ。実際に大きなデータ量を扱いますので、全て実行するのに結構時間はかかります...
+
+    https://github.com/microsoft/MCW-Azure-Synapse-Analytics-end-to-end-solution
 
 ## Azure Data Explorer
 
