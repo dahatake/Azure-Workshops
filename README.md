@@ -4,7 +4,6 @@ Azure の Hands-on-Lab や Workshop 用のコンテンツのリンク集です�
 
 自社あるいは Community の勉強会など、どうぞ自由にご活用ください。
 
-- [Microsoft Cloud Workshop](#microsoft-cloud-workshop)
 - [Azure Functions](#azure-functions)
 - [Azure Kubernetes Services](#azure-Kubernetes-services)
 - [機械学習一通り](#機械学習一通り)
@@ -25,6 +24,7 @@ Azure の Hands-on-Lab や Workshop 用のコンテンツのリンク集です�
 - [Senario Type Application](#Senario-Type-Application)
 
 
+# 1.  諸々網羅しているもの
 
 ## Microsoft Cloud Workshop
 
@@ -40,12 +40,20 @@ Azure だけでなく、様々な Microsoft Technology のハンズオンラボ�
 
 https://www.microsoft.com/handsonlabs/selfpacedlabs/
 
+## What is What The Hack?
+
+手順書のあるハンズオンではなく、チャレンジ・課題ベースの Hackathonコンテンツです。Hands-on 系をやった後で、是非こうした課題解決型のものに取り組める時間を作りたいものです。
+
+https://github.com/microsoft/whatthehack
+
 
 ## Azure Citadel
 
 同じく Azure のかなりの数のサービスのコンテンツです。各国の Community の皆さんでメンテナンスされている、ハンズオン・ワークショップ用のコンテンツです。こちらも同じく英語のみ😅
 
 https://azurecitadel.com/
+
+# 2. 個別製品・サービス
 
 ## Azure Functions
 
@@ -195,9 +203,23 @@ https://azure.github.io/learnAnalytics-public/
 
 1. Azure Synapse Analytics end-to-end solution
 
-    Synapseの概念を実感する上で、非常によくできたコンテンツ。実際に大きなデータ量を扱いますので、全て実行するのに結構時間はかかります...
+  Synapseの概念を実感する上で、非常によくできたコンテンツ。実際に大きなデータ量を扱いますので、全て実行するのに結構時間はかかります...
 
-    https://github.com/microsoft/MCW-Azure-Synapse-Analytics-end-to-end-solution
+   https://github.com/microsoft/MCW-Azure-Synapse-Analytics-end-to-end-solution
+
+
+2. Azure Synapse Analytics Lab
+
+  こちらも、とあるビジネスシナリオに基づいたコンテンツ。
+
+  https://github.com/solliancenet/azure-synapse-analytics-day
+
+3. Azure Synapse Analytics Workshop (level 400, 4 days)
+
+  上記をさらりとやってみたら、こちらですね😊
+
+  https://github.com/solliancenet/azure-synapse-analytics-workshop-400
+
 
 ## Azure Data Explorer
 
