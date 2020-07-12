@@ -8,7 +8,7 @@ Azure の Hands-on-Lab や Workshop 用のコンテンツのリンク集です�
 - [Azure Kubernetes Services](#azure-Kubernetes-services)
 - [機械学習一通り](#機械学習一通り)
 - [Cognitive Service](#Cognitive-Service)
-- [Azure Machine Learning services](#Azure-Machine-Learning-services)
+- [Azure Machine Learning](#Azure-Machine-Learning)
 - [Cosmos DB](#Cosmos-DB)
 
 - [SQL Database](#SQL-Database)
