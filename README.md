@@ -11,6 +11,7 @@ Azure の Hands-on-Lab や Workshop 用のコンテンツのリンク集です�
 - [Azure Machine Learning services](#Azure-Machine-Learning-services)
 - [Cosmos DB](#Cosmos-DB)
 
+- [SQL Database](#SQL-Database)
 - [Azure Synapse Analytics](#Azure-Synapse-Anaytics)
 
 - [Azure Databricks](#Azure-Databricks)
@@ -198,6 +199,15 @@ https://azure.github.io/learnAnalytics-public/
     簡単な異常検知と予測保全に関するものです
 
     https://azure.github.io/LearnAI-ADPM/
+
+## SQL Database
+
+1. SQL Server and SQL Database Workshop and Labs
+
+    ソフトウェアとしてのSQL Server も含めた、Data処理、Big Data Cluster、on Kubernetes、Data Science、Machine Learning などもカバー。初学者から、新機能を試したいエキスパートまでおススメです。
+
+
+  https://microsoft.github.io/sqlworkshops/
 
 ## Azure Synapse Anaytics
 
