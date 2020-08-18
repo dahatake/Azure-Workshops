@@ -217,16 +217,9 @@ https://azure.github.io/learnAnalytics-public/
 
    https://github.com/microsoft/MCW-Azure-Synapse-Analytics-end-to-end-solution
 
+2. Azure Synapse Analytics Workshop (level 400, 4 days)
 
-2. Azure Synapse Analytics Lab
-
-  こちらも、とあるビジネスシナリオに基づいたコンテンツ。
-
-  https://github.com/solliancenet/azure-synapse-analytics-day
-
-3. Azure Synapse Analytics Workshop (level 400, 4 days)
-
-  上記をさらりとやってみたら、こちらですね😊
+  これもよくできたコンテンツです。特にとばしがちな、データ加工の部分をデータフローを丁寧に使ってやります。Parquet, JSONのデータのJOINも。そして、Synapse内部での機械学習を使った Model 作成とデプロイもあり😊
 
   https://github.com/solliancenet/azure-synapse-analytics-workshop-400
 
