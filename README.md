@@ -4,6 +4,7 @@ Azure の Hands-on-Lab や Workshop 用のコンテンツのリンク集です�
 
 自社あるいは Community の勉強会など、どうぞ自由にご活用ください。
 
+
 - [Azure Functions](#azure-functions)
 - [Azure Kubernetes Services](#azure-Kubernetes-services)
 - [機械学習一通り](#機械学習一通り)
@@ -32,14 +33,6 @@ Azure の Hands-on-Lab や Workshop 用のコンテンツのリンク集です�
 Azure のかなりの数のサービスのコンテンツです。英語ですが、皆さんなら読めるかと!
 
 https://microsoftcloudworkshop.com/
-
-## Microsoft Hands-on Labs
-
-Azure だけでなく、様々な Microsoft Technology のハンズオンラボコンテンツです。
-
-`Self-paced Labs` の自習式のハンズオンです。操作用に仮想マシンまで用意されています。
-
-https://www.microsoft.com/handsonlabs/selfpacedlabs/
 
 ## What is What The Hack?
 
@@ -164,11 +157,11 @@ https://azure.github.io/learnAnalytics-public/
 
 ## Cosmos DB
 
-1. SQL API
+1. Azure Cosmos DB Workshop
 
     Azure Cosmos DB using the SQL API, JavaScript and .NET Core SDK
 
-    https://cosmosdb.github.io/labs/
+    https://azurecosmosdb.github.io/labs/
 
 ## Azure Databricks
 
