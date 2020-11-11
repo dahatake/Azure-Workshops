@@ -28,6 +28,14 @@ Azure の Hands-on-Lab や Workshop 用のコンテンツのリンク集です�
 
 # 1.  諸々網羅しているもの
 
+
+## Microsoft Japan Code Labs
+
+日本語での Azure だけでないサービスのWorkshop、ハンズオンコンテンツです。
+
+https://microsoft.github.io/code-labs-jp/
+
+
 ## Microsoft Cloud Workshop
 
 Azure のかなりの数のサービスのコンテンツです。英語ですが、皆さんなら読めるかと!
