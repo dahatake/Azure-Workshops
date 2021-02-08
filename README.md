@@ -21,6 +21,7 @@ Azure の Hands-on-Lab や Workshop 用のコンテンツのリンク集です�
 - [Power BI](#Power-BI)
 - [IoT](#IoT)
 - [Azure DevOps](#Azure-DevOps)
+- [Azure Private Link](#Azure-PrivateLink) 
 
 - [High Availability System](#High-Availability-System)
 - [Senario Type Application](#Senario-Type-Application)
@@ -286,6 +287,12 @@ https://azure.github.io/learnAnalytics-public/
 公式なのですが、よくまとまっています。
 
 https://www.azuredevopslabs.com/
+
+## Azure PrivateLink
+
+Bastin, SQL Database への接続。DNS が肝かもしれませんね。
+
+https://github.com/adstuart/azure-privatelink-dns-microhack
 
 ## High Availability System
 
