@@ -88,17 +88,24 @@ https://azurecitadel.com/
 
 ## 機械学習一通り
 
-1. 機械学習の入門からデータサイエンティスト手前まで
 
-Global AI Nights の日本開催で利用したコンテンツです。MVP の方々の多大なるご尽力です。非常にわかりやすいチャレンジ構成になっています。
+1. 超入門編
 
-https://aka.ms/AA603s1
+    英語ですが。本当に良く整理されているコンテンツです。
 
-2. Cognitive, Azure ML, Bot まで一通り
+    https://github.com/microsoft/ML-For-Beginners
 
-Azure を使った Pre-Trained Model, Custom Model, Bot Application についてのコンテンツです。
+2. 機械学習の入門からデータサイエンティスト手前まで
 
-https://azure.github.io/learnAnalytics-public/
+    Global AI Nights の日本開催で利用したコンテンツです。MVP の方々の多大なるご尽力です。非常にわかりやすいチャレンジ構成になっています。
+
+    https://aka.ms/AA603s1
+
+3. Cognitive, Azure ML, Bot まで一通り
+
+    Azure を使った Pre-Trained Model, Custom Model, Bot Application についてのコンテンツです。
+
+    https://azure.github.io/learnAnalytics-public/
 
 ## Cognitive Service
 
