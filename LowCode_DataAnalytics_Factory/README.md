@@ -27,7 +27,8 @@ https://github.com/konabuta
 
 ```bash
 ├── data
-|    ├── Factory_New.csv       : 新規に出来たデータ。機械学習の検証用です。
+|    ├── Factory_New_ForPrediction.csv       : 新規に出来たデータ。Factory_New.csv から `Quality`列の削除と、`JSON`形式に変換したもの。機械学習の検証用です。
+|    ├── Factory_New.csv       : 新規に出来たデータ。
 |    └── Factory.csv           : 過去データ。3つの工程のデータと人による品質判定結果を、生産物IDでマージしたものです。
 ├── final
 |    └── 品質管理Factory.csv           : データ加工後に出来るファイル
