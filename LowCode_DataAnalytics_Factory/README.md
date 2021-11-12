@@ -11,6 +11,11 @@ Power BI と Azure Machine Learning を使った Low-Code でのハンズオン 
 
 https://github.com/konabuta
 
+# ハンズオンで扱うシナリオ
+
+こちらに目的とハンズオンの内部で行うシナリオが説明されています。
+
+https://www.slideshare.net/dahatake/low-code-250635724
 
 # 必要なもの
 
@@ -31,8 +36,8 @@ https://github.com/konabuta
 |    ├── Factory_New.csv                  : 新規に出来たデータ。
 |    └── Factory.csv                      : 過去データ。3つの工程のデータと人による品質判定結果を、生産物IDでマージしたものです。
 ├── final                                 : このファイルはハンズオン実施後に出来るファイルです。ハンズオン中は使いません。
-|    ├── Factory_New_Final.csv             : 新規に出来たデータで推論した結果
-|    └── 品質管理Factory.csv               : データ加工後に出来るファイル
+|    ├── Factory_New_Final.csv            : 新規に出来たデータで推論した結果
+|    └── 品質管理Factory.pbix              : データ加工後に出来る PowerBIファイル
 └── images
 ```
 
